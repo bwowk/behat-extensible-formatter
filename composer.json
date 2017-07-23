@@ -1,0 +1,18 @@
+{
+    "name": "bwowk/behat-extensible-formatter",
+    "description": "Behat formatter base with extension points to append extra output and to create new output formats.",
+    "type": "behat-extension",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Bruno Wowk",
+            "email": "bruno.wowk@gmail.com"
+        }
+    ],
+    "require": {
+        "behat/behat": "^3"
+    },
+    "require-dev": {
+        "friends-of-behat/test-context": "^0.3.1"
+    }
+}
